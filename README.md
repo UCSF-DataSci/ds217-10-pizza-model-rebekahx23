@@ -109,10 +109,10 @@ Open `assignment.ipynb` and work through the three questions. The notebook provi
 
 Before submitting, verify you've created:
 
-- [ ] `output/q1_statistical_model.csv` - Statistical model predictions
-- [ ] `output/q1_model_summary.txt` - Model summary statistics
-- [ ] `output/q2_ml_predictions.csv` - ML model predictions
-- [ ] `output/q2_model_comparison.txt` - Model comparison results
-- [ ] `output/q3_xgboost_model.csv` - XGBoost predictions
-- [ ] `output/q3_feature_importance.txt` - Feature importance results
+- [X] `output/q1_statistical_model.csv` - Statistical model predictions
+- [X] `output/q1_model_summary.txt` - Model summary statistics
+- [X] `output/q2_ml_predictions.csv` - ML model predictions
+- [X] `output/q2_model_comparison.txt` - Model comparison results
+- [X] `output/q3_xgboost_model.csv` - XGBoost predictions
+- [X] `output/q3_feature_importance.txt` - Feature importance results
 
